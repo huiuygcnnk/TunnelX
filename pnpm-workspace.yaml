@@ -1,0 +1,3 @@
+allowBuilds:
+  '@mercuryworkshop/scramjet': false
+  bufferutil: false
